@@ -18,7 +18,7 @@ body {
   flex-wrap: wrap;
   perspective: 1000px;
 }
-
+/* i'm gonn learn this */
 .memory-card {
   width: calc(25% - 10px);
   height: calc(33.333% - 10px);
